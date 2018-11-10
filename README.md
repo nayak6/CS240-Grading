@@ -1,6 +1,6 @@
-# Scripts
+# CS240 Grading
 
-Collection of scripts for miscellaneous projects.
+Python script for running HW test cases.
 
 ## test_run.py
 
